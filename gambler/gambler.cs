@@ -10,8 +10,8 @@ namespace gambler
     {
         public void play()
         {
-            const double stake = 100;
-            const int daily = 1;
+            const int EVERYDAY_STAKE = 100;
+            const int  EVERY_GAME= 1;
         }
     }
 }
