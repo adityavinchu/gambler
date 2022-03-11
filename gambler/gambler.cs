@@ -11,7 +11,7 @@ namespace gambler
         public void play()
         {
             const double stake = 100;
-            int daily = 1;
+            const int daily = 1;
         }
     }
 }
