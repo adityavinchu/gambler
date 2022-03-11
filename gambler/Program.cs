@@ -10,6 +10,8 @@ namespace gambler
     {
         static void Main(string[] args)
         {
+            gambler gambler = new gambler();
+            gambler.Game();
         }
     }
 }
